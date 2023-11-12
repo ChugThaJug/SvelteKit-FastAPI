@@ -2,7 +2,10 @@
     import "../app.css";
   </script>
   
+<svelte:head>
+  
+</svelte:head>
 
-  <div class="bg-green-500">
+  <div>
     <slot />
   </div>
