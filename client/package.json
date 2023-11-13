@@ -14,6 +14,8 @@
 		"@sveltejs/adapter-node": "^1.0.0-next.106",
 		"@sveltejs/kit": "^1.20.4",
 		"autoprefixer": "^10.4.16",
+		"flowbite": "^2.1.1",
+		"flowbite-svelte": "^0.44.19",
 		"postcss": "^8.4.31",
 		"svelte": "^4.0.5",
 		"svelte-check": "^3.4.3",
@@ -26,7 +28,6 @@
 	"dependencies": {
 		"bits-ui": "^0.9.4",
 		"clsx": "^2.0.0",
-		"flowbite": "^2.1.1",
 		"lucide-svelte": "^0.292.0",
 		"tailwind-merge": "^2.0.0",
 		"tailwind-variants": "^0.1.18"
